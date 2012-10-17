@@ -3,7 +3,7 @@
     <modelVersion>4.0.0</modelVersion>
     <groupId>com.googlecode.the-fascinator.plugins</groupId>
     <artifactId>plugin-authentication-ldap</artifactId>
-    <version>1.0-UoA</version>
+    <version>1.0-UoA-SNAPSHOT</version>
     <name>The Fascinator - Plugin - Authentication - LDAP</name>
     <url></url>
     <parent>
