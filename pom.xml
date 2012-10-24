@@ -3,7 +3,7 @@
     <modelVersion>4.0.0</modelVersion>
     <groupId>com.googlecode.the-fascinator.plugins</groupId>
     <artifactId>plugin-authentication-ldap</artifactId>
-    <version>1.1-UoA-SNAPSHOT</version>
+    <version>1.1-UoA</version>
     <name>The Fascinator - Plugin - Authentication - LDAP</name>
     <url />
     <parent>
@@ -65,7 +65,7 @@
         <url>scm:git://github.com/innodev-au/plugin-authentication-ldap.git</url>
         <connection>scm:git://github.com/innodev-au/plugin-authentication-ldap.git</connection>
         <developerConnection>scm:git:https://github.com/innodev-au/plugin-authentication-ldap.git</developerConnection>
-        <tag>HEAD</tag>
+        <tag>plugin-authentication-ldap-1.1-UoA</tag>
     </scm>
 
     <repositories>
