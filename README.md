@@ -2,8 +2,6 @@
 
 This plugin allows authentication against an LDAP server for The fascinator platform.
 
-[ANDS-funded development done as part of the Metadata Stores project.]
-
 ## Configuration ##
 
 	"authentication": {
